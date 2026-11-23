@@ -151,3 +151,6 @@ data/raw/         put the DrivenData CSVs here (git-ignored)
 
 The notebooks are the exploration history. The package reproduces the notebook's model-selection results exactly
 (development score 9.451, report-window MAE 11.916); the notebook also contains a LightGBM random search that is not part of the pipeline, since LightGBM did not beat the final model.
+
+Presentation link:
+https://truecorp-my.sharepoint.com/:p:/g/personal/kasin_mongkonrattanachai_truecorp_co_th/IQA09CTNUI5TS4wuZ5ZBy2r-AarvAVGb4wnA5kX3RbCUYSA?e=HU1lGW
