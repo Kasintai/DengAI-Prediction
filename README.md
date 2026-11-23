@@ -151,6 +151,3 @@ data/raw/         put the DrivenData CSVs here (git-ignored)
 
 The notebooks are the exploration history. The package reproduces the notebook's model-selection results exactly
 (development score 9.451, report-window MAE 11.916); the notebook also contains a LightGBM random search that is not part of the pipeline, since LightGBM did not beat the final model.
-
-## AI assistance
-AI tools (Claude) were used for refactoring the notebook logic into the package, writing tests and drafting this README. The modelling choices and conclusions are my own to explain and defend.
